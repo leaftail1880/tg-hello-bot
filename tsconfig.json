@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"esModuleInterop": true,
+		"target": "ESNext",
+		"module": "NodeNext",
+		"moduleResolution": "NodeNext",
+		"types": ["node"],
+		"lib": ["ES2023"],
+		"skipLibCheck": true,
+		"skipDefaultLibCheck": true
+	},
+	"include": ["./"],
+	"exclude": ["./node_modules/**"]
+}

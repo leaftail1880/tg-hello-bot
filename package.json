@@ -1,0 +1,13 @@
+{
+  "name": "tg-hello-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leaftail1880/tg-hello-bot.git",
+  "author": "leaftail1880 <110915645+leaftaul1880@users.noreply.github.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.4.1",
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
